@@ -1,4 +1,4 @@
-# Cursor skills
+# Agent skills
 
 A growing collection of Agent Skills I find useful. More will land here over time.
 
